@@ -15,5 +15,9 @@ namespace singly_linked_list
         {
             START = null;
         }
+        public void addNode() // add a node in the list
+        {
+
+        }
     }
 }
