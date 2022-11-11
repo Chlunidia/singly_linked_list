@@ -131,7 +131,7 @@ namespace singly_linked_list
                     {
                         case '1':
                             {
-                                obj.addNote();
+                                obj.addNode();
                             }
                             break;
                         case '2':
