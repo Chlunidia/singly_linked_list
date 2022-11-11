@@ -109,4 +109,8 @@ namespace singly_linked_list
                 return false;
         }
     }
+    class Program
+    {
+
+    }
 }
